@@ -1,0 +1,13 @@
+C:\Users\Владик\source\repos\TEST\bin\Release\TEST.exe.config
+C:\Users\Владик\source\repos\TEST\bin\Release\TEST.exe
+C:\Users\Владик\source\repos\TEST\bin\Release\TEST.pdb
+C:\Users\Владик\source\repos\TEST\obj\Release\TEST.csproj.AssemblyReference.cache
+C:\Users\Владик\source\repos\TEST\obj\Release\TEST.about.resources
+C:\Users\Владик\source\repos\TEST\obj\Release\TEST.Form1.resources
+C:\Users\Владик\source\repos\TEST\obj\Release\TEST.Properties.Resources.resources
+C:\Users\Владик\source\repos\TEST\obj\Release\TEST.csproj.GenerateResource.cache
+C:\Users\Владик\source\repos\TEST\obj\Release\TEST.csproj.CoreCompileInputs.cache
+C:\Users\Владик\source\repos\TEST\obj\Release\TEST.exe
+C:\Users\Владик\source\repos\TEST\obj\Release\TEST.pdb
+C:\Users\Владик\source\repos\TEST\obj\Release\TEST.AddIngredient.resources
+C:\Users\Владик\source\repos\TEST\obj\Release\TEST.Pomogaika.resources
